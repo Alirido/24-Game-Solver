@@ -9,5 +9,7 @@ int main() {
 
 	printf("%d %d %d %d\n", a, b, c, d);
 
+	printf("See you later, world!\n");
+
 	return 0;
 }
